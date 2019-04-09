@@ -10,7 +10,7 @@
 + [用户密码重置（reset接口）](https://github.com/xuqwCloud/ArcGIS-REST-API-supplement/blob/master/article/REST-API-reset.md)
 
 ## 参考
-+ [ArcGIS REST API官方文档]
++ [ArcGIS REST API官方文档](https://developers.arcgis.com/rest/)
 
 ## 联系我们
 **邮箱：xuqw@esrichina.com.cn**   
