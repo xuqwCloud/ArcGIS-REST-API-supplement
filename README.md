@@ -7,7 +7,7 @@
 2. 项目所记载的REST API都是通过抓取后台请求得到的，所以最终将这些API整理记录，便于其他开发人员直接学习使用，减少开发成本。
 
 ## 文章列表（长期更新）
-+ [用户密码重置（reset接口）](http://www.baidu.com)
++ [用户密码重置（reset接口）](https://github.com/xuqwCloud/ArcGIS-REST-API-supplement/blob/master/article/REST-API-reset.md)
 
 ## 参考
 + [ArcGIS REST API官方文档]
